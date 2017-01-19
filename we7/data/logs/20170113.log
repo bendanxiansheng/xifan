@@ -1,0 +1,56 @@
+2017-01-13 23:46:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dab016b3c862]]></ToUserName>
+<FromUserName><![CDATA[odnlJv4HKJ5CIXiJ6P4SVAdC6QdQ]]></FromUserName>
+<CreateTime>1484322416</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[儿]]></Content>
+<MsgId>6375116233854649372</MsgId>
+</xml>
+
+2017-01-13 23:46:57 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_dab016b3c862',
+    'fromusername' => 'odnlJv4HKJ5CIXiJ6P4SVAdC6QdQ',
+    'createtime' => '1484322416',
+    'msgtype' => 'text',
+    'content' => '欢迎',
+    'msgid' => '6375116233854649372',
+    'from' => 'odnlJv4HKJ5CIXiJ6P4SVAdC6QdQ',
+    'to' => 'gh_dab016b3c862',
+    'time' => '1484322416',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => true,
+    'source' => 'default',
+    'original' => '儿',
+  ),
+  'module' => 'images',
+  'rule' => '14',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '32',
+    'rid' => '14',
+    'uniacid' => '6',
+    'module' => 'images',
+    'content' => '欢迎',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-01-13 23:46:57 response :
+------------
+Array:
+FromUserName : gh_dab016b3c862 ;
+ToUserName : odnlJv4HKJ5CIXiJ6P4SVAdC6QdQ ;
+MsgType : image ;
+Image : Array ;
+

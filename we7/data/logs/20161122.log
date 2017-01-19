@@ -1,0 +1,112 @@
+2016-11-22 16:35:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b0d4b812664c]]></ToUserName>
+<FromUserName><![CDATA[oRLu0w5YKoht6_tJvbkYl4aEU8Vg]]></FromUserName>
+<CreateTime>1479803756</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[投票]]></Content>
+<MsgId>6355708736926383621</MsgId>
+</xml>
+
+2016-11-22 16:35:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b0d4b812664c',
+    'fromusername' => 'oRLu0w5YKoht6_tJvbkYl4aEU8Vg',
+    'createtime' => '1479803756',
+    'msgtype' => 'text',
+    'content' => '投票',
+    'msgid' => '6355708736926383621',
+    'from' => 'oRLu0w5YKoht6_tJvbkYl4aEU8Vg',
+    'to' => 'gh_b0d4b812664c',
+    'time' => '1479803756',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'cover',
+    'content' => '投票',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2016-11-22 16:35:55 response :
+------------
+Array:
+FromUserName : gh_b0d4b812664c ;
+ToUserName : oRLu0w5YKoht6_tJvbkYl4aEU8Vg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-11-22 16:38:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b0d4b812664c]]></ToUserName>
+<FromUserName><![CDATA[oRLu0w5YKoht6_tJvbkYl4aEU8Vg]]></FromUserName>
+<CreateTime>1479803899</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[投票]]></Content>
+<MsgId>6355709351106707164</MsgId>
+</xml>
+
+2016-11-22 16:38:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b0d4b812664c',
+    'fromusername' => 'oRLu0w5YKoht6_tJvbkYl4aEU8Vg',
+    'createtime' => '1479803899',
+    'msgtype' => 'text',
+    'content' => '投票',
+    'msgid' => '6355709351106707164',
+    'from' => 'oRLu0w5YKoht6_tJvbkYl4aEU8Vg',
+    'to' => 'gh_b0d4b812664c',
+    'time' => '1479803899',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'cover',
+    'content' => '投票',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2016-11-22 16:38:19 response :
+------------
+Array:
+FromUserName : gh_b0d4b812664c ;
+ToUserName : oRLu0w5YKoht6_tJvbkYl4aEU8Vg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
