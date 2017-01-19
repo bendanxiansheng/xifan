@@ -3,11 +3,11 @@ defined('IN_IA') or exit('Access Denied');
 
 $config = array();
 
-$config['db']['master']['host'] = 'bdm243423595.my3w.com';
-$config['db']['master']['username'] = 'bdm243423595';
-$config['db']['master']['password'] = 'rootroot';
+$config['db']['master']['host'] = 'mysql.hostinger.com.hk';
+$config['db']['master']['username'] = 'u545664108_root';
+$config['db']['master']['password'] = 'lyf123';
 $config['db']['master']['port'] = '3306';
-$config['db']['master']['database'] = 'bdm243423595_db';
+$config['db']['master']['database'] = 'u545664108_we7';
 $config['db']['master']['charset'] = 'utf8';
 $config['db']['master']['pconnect'] = 0;
 $config['db']['master']['tablepre'] = 'ims_';
